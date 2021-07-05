@@ -1,0 +1,3 @@
+LOCAL_PATH := device/OUKITEL/U7_Plus
+
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_U7_Plus.mk
